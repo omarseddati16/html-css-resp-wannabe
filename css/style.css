@@ -141,18 +141,18 @@ img {
     }
 
     .steps .col {
-        width: 110%;
+        width: 100%;
     }
 
     .lessons .col {
-        width: 110%;
+        width: 100%;
     }
 
     .why-us .col {
-        width: 110%;
+        width: 100%;
     }
 
-    #why-us .container .row {
+    #why-us .row {
         background-color: black;
     }
 
